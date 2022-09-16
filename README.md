@@ -29,5 +29,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 
 
-yarn add web3uikit
+
 # nft-marketplace-backend-by-thegraph
+yarn add web3uikit
+
+this example shows how to fetch blockchain trasactions by using thegraph provider, which is more decentralized.
+Go to https://github.com/Astr0-G/TheGraph-Backend-Qlexample to learn more.
